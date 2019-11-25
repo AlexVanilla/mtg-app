@@ -1,0 +1,16 @@
+TODO: import axios and create poc for downloadBulkData.js
+
+Todo:
+  ☐ Sync to latest mtg
+  ☐ Work in react native
+  ☐ Show deck stats
+  ☐ Draw simulator
+  ☐ Cards need to have sorting feature
+  ☐ Wishlist
+  ☐ Allow bulk buy for tcgplayer (create wishlist first)
+  ☐ Have option to save db in storage.  Else make rest calls
+  ☐ Export feature
+  ☐ Create card hashtable poc
+  
+  NOTES:
+    [] retrieve cards in oracle format
